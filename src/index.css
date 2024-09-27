@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    overflow: hidden;
+}
+
+ul li{
+    list-style: none;
+}
+
+.app{
+    width: 100vw;
+    height: 90vh;
+    margin: 20px 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+button svg{
+    width: 30px;
+}

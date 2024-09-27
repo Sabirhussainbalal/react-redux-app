@@ -1,0 +1,140 @@
+{
+  "employees": [
+      {
+          "name": "Sabir Hussain Balal",
+          "age": 30,
+          "gender": "male",
+          "city": "Baku",
+          "avatar": "https://th.bing.com/th/id/R.e0da724278aa6ed3d8e63709635f448c?rik=eCgZz0Tyk295zQ&pid=ImgRaw&r=0", 
+          "backgroundImage": "https://t5y6k8a5.rocketcdn.me/wp-content/uploads/2015/11/rsz_dollarphotoclub_78516180.jpg" 
+      },
+      {
+          "name": "Sweeties",
+          "age": 25,
+          "gender": "female",
+          "city": "Ganja",
+          "avatar": "https://i.pinimg.com/736x/d9/ed/a4/d9eda4de7d696a0111bc6f67a3cfb294.jpg", 
+          "backgroundImage": "https://i.pinimg.com/736x/51/9c/db/519cdb4203ae9ab881c70f725bbac8b4.jpg" 
+      },
+      {
+          "name": "Azerbaijan",
+          "age": 32,
+          "gender": "male",
+          "city": "Sumqayit",
+          "avatar": "https://www.kindpng.com/picc/m/52-526237_avatar-profile-hd-png-download.png",
+          "backgroundImage": "https://www.aig.ie/content/aig/emea/ie/en/our-blog/top-6-backpacking-specific-travel-tips.thumb.800.480.png" 
+      },
+      {
+          "name": "Ammar",
+          "age": 29,
+          "gender": "male",
+          "city": "Lankaran",
+          "avatar": "https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/female/68.png", 
+          "backgroundImage": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a45bb73693517.58b7395aea26a.jpg" 
+      },
+      {
+          "name": "Saad",
+          "age": 27,
+          "gender": "male",
+          "city": "Shaki",
+          "avatar": "https://th.bing.com/th/id/OIP.AbGafkazjc_S1pZPh0B9cQHaIm?rs=1&pid=ImgDetMainpg", 
+          "backgroundImage": "https://i.pinimg.com/736x/5f/16/65/5f16651eef73aef87ec54c49d1e2bb5b.jpg" 
+      },
+      {
+          "name": "Shooooter",
+          "age": 24,
+          "gender": "male",
+          "city": "Baku",
+          "avatar": "https://cdn3.iconfinder.com/data/icons/flat-classy-users-1/256/Male_SkinTone2_HairStyle2-512.png",
+          "backgroundImage": "https://www.ustoa.com/blog/wp-content/uploads/2017/05/pt6a4632_28864090466_o.jpg" 
+      },
+      {
+          "name": "Dustin",
+          "age": 31,
+          "gender": "male",
+          "city": "Ganja",
+          "avatar": "https://cdn-icons-png.flaticon.com/512/6998/6998076.png", 
+          "backgroundImage": "https://cdn.sportmaster.ru/upload/content/cmsgate/ru_sm/smprod/media/voda-v-pokhode.jpg" 
+      },
+      {
+          "name": "Legend",
+          "age": 28,
+          "gender": "male",
+          "city": "Lankaran",
+          "avatar": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png", 
+          "backgroundImage": "https://avatars.mds.yandex.net/i?id=ab569631018b678eeb77fdff8f9f2ec4f55db28c-10093903-images-thumbs&ref=rim&n=33&w=300&h=200" 
+      },
+      {
+          "name": "Dadho",
+          "age": 33,
+          "gender": "male",
+          "city": "Shaki",
+          "avatar": "https://goodsuite.com/wp-content/uploads/2020/09/Digital-Display-Icons.png", 
+          "backgroundImage": "https://alpsport.ua/media/wysiwyg/rukzak-dlya-tekkinga-v-nepale.jpeg" 
+      },
+      {
+          "name": "bb-king",
+          "age": 26,
+          "gender": "male",
+          "city": "Sumqayit",
+          "avatar": "https://gravatar.com/avatar/8252554e2c2fa9bc91880a7649656f65?s=400&d=robohash&r=x", 
+          "backgroundImage": "https://i.pinimg.com/736x/57/f8/9c/57f89c4f4ee2d0ec24cf7856a42b505e.jpg" 
+      },
+      {
+          "name": "Kerplunk",
+          "age": 29,
+          "gender": "male",
+          "city": "Baku",
+          "avatar": "https://th.bing.com/th/id/OIP.PUlNuVjubTrI2K6Xh6Zh9QHaHa?w=1920&h=1920&rs=1&pid=ImgDetMain", 
+          "backgroundImage": "https://i.pinimg.com/736x/13/4a/b1/134ab1db81146e47bb743225d31e4317.jpg" 
+      },
+      {
+          "name": "Razer",
+          "age": 35,
+          "gender": "male",
+          "city": "Ganja",
+          "avatar": "https://th.bing.com/th/id/OIP.P_cqpGj9P_j4eWwUhhzLDAHaHa?w=1181&h=1181&rs=1&pid=ImgDetMain", 
+          "backgroundImage": "https://i.pinimg.com/736x/27/eb/b4/27ebb48c5bb9c240f0f6d93744397f69.jpg" 
+      },
+      {
+          "name": "Zerox",
+          "age": 22,
+          "gender": "male",
+          "city": "Lankaran",
+          "avatar": "https://infodrive-solutions.com/images/user-icon.jpeg", 
+          "backgroundImage": "https://i.pinimg.com/736x/2c/3f/7e/2c3f7e9166facfb83c1f20240f6b2e6a.jpg" 
+      },
+      {
+          "name": "Maverick",
+          "age": 34,
+          "gender": "male",
+          "city": "Shaki",
+          "avatar": "https://th.bing.com/th/id/OIP.rqJv-R1HYVi1iVMPxRAbygHaGN?w=940&h=788&rs=1&pid=ImgDetMain", 
+          "backgroundImage": "https://avatars.mds.yandex.net/i?id=518f3794c71708ee0947c8683ca9aa7aecc1d19f-12323508-images-thumbs&n=13" 
+      },
+      {
+          "name": "Bazil",
+          "age": 23,
+          "gender": "male",
+          "city": "Sumqayit",
+          "avatar": "https://th.bing.com/th/id/OIP.MbzbjVUOzVn9F8kDj8Lx2AAAAA?w=215&h=281&rs=1&pid=ImgDetMain", 
+          "backgroundImage": "https://i.pinimg.com/736x/84/30/1c/84301c645c784451e6acb2059a1f0977.jpg" 
+      },
+      {
+          "name": "Zaxon",
+          "age": 21,
+          "gender": "male",
+          "city": "Baku",
+          "avatar": "https://th.bing.com/th/id/OIP.TTeBp7HXMYnJg5u3Q7dA4gHaHa?w=1920&h=1920&rs=1&pid=ImgDetMain",
+          "backgroundImage": "https://avatars.mds.yandex.net/i?id=e6f1803fab65019074113a2b3fc2fed6e1007a9b-5870172-images-thumbs&n=13" 
+      },
+      {
+          "name": "Hitler",
+          "age": 38,
+          "gender": "male",
+          "city": "Ganja",
+          "avatar": "https://th.bing.com/th/id/R.d2d3f7719535ae2d972e19bdfe66c4a8?rik=6qCvm94ZrX6xeQ&pid=ImgRaw&r=0", 
+          "backgroundImage": "https://static-3.bitchute.com/live/cover_images/jQ8xiTBtbGtH/AHNvGhHvNppQ_640x360.jpg" 
+      }
+  ]
+}
